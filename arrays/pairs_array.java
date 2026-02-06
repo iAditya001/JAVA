@@ -11,7 +11,7 @@ public class pairs_array {
              }
              System.out.println();
             }
-            System.out.print("Total pairs "+tp+".       "  ) ;
+            System.out.print("Total pairs "+tp+".  "  ) ;
               }
     public static void main(String[] args) {
         int numbers[]={2,4,6,8,10};
